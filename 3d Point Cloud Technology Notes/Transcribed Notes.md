@@ -1,4 +1,4 @@
-***These Notes have been transcribed from image to text using Gemini
+# These Notes have been transcribed from image to text using Gemini
 
 **3d Point Cloud Tech**
 
