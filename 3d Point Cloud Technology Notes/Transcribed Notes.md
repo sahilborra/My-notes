@@ -1,4 +1,6 @@
-# These Notes have been transcribed from image to text using Gemini
+# Transcribed Version of my Notebook
+
+### These Notes have been transcribed from image to text using Gemini
 
 **3d Point Cloud Tech**
 
