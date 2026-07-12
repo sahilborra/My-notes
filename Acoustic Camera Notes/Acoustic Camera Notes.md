@@ -1,4 +1,4 @@
-Here is the transcribed text with the shortened words expanded to their full forms:
+Transcribed Using Gemini
 
 ---
 
