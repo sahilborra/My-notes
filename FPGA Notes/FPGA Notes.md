@@ -30,7 +30,7 @@ Transcribed Using Gemini
 
 | Raw waves (unaligned) | Delay | Aligned Waves |
 | --- | --- | --- |
-| Microphone 1: $\ \ 1 \ \ 0 \ \ 1 \ \ - \ \ - \ \  | no delay | $1 \ \ 0 \ \ 1$ |
+| Microphone 1: $\ \ 1 \ \ 0 \ \ 1 \ \ - \ \ - \ \ -$ | no delay | $1 \ \ 0 \ \ 1$ |
 | Microphone 2: $\ \ - \ \ 1 \ \ 0 \ \ 1 \ \ - \ \ -$ | shift left 1 | $1 \ \ 0 \ \ 1$ |
 | Microphone 3: $\ \ - \ \ - \ \ 1 \ \ 0 \ \ 1 \ \ -$ | shift left 2 | $1 \ \ 0 \ \ 1$ |
 
