@@ -1,4 +1,5 @@
-# Transcribed Notes (using gemini)
+Transcribed using Gemini
+# Transcribed Notes 
 
 Video 1-
 Hardware:- Consists of a single ultrasonic transducer mounted on motors.
@@ -11,4 +12,4 @@ Limitation:- Very slow, must wait for the echo to come back. Not practical for r
 Video 2-
 Hardware:- Uses a single emitter with an array of 8 recievers
 Function:- Emitter sends wide signal, can flood entire room. This causes returning echo to hit the 8 recievers at extremely small time differences depending on angle of object from array.
-Visualization:- Through reverse engineering, an entire horizontal plane can be mapped
+Visualization:- Through reverse engineering, an entire horizontal plan can be mapped
